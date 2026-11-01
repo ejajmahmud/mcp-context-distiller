@@ -1,0 +1,2 @@
+[console_scripts]
+mcp-distill = mcp_context_distiller.cli:main

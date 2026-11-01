@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+mcp_context_distiller/__init__.py
+mcp_context_distiller/cli.py
+mcp_context_distiller/distiller.py
+mcp_context_distiller/proxy.py
+mcp_context_distiller.egg-info/PKG-INFO
+mcp_context_distiller.egg-info/SOURCES.txt
+mcp_context_distiller.egg-info/dependency_links.txt
+mcp_context_distiller.egg-info/entry_points.txt
+mcp_context_distiller.egg-info/top_level.txt
+tests/test_distiller.py
